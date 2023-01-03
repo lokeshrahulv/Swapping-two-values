@@ -30,7 +30,8 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![output](/Screenshot%20(61).png)
+![output](/![Screenshot (73)](https://user-images.githubusercontent.com/118423842/210341003-64c97d57-402b-470c-87c6-09af6b098d52.png)
+)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
